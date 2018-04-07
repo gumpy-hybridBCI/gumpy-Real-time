@@ -24,7 +24,7 @@ Additional References
 * www.gumpy.org: For more information about ``gumpy``
 * https://github.com/gumpy-hybridBCI/: ``gumpy``'s main repository, and additional
   information about contributors and how to cite ``gumpy``
-* www.github.com/gumpy-bci/gumpy-deeplearning: gumpy's deep learning models for BCI
+* https://github.com/gumpy-hybridBCI/Gumpy-Deeplearning: gumpy's deep learning models for BCI
 * https://www.youtube.com/watch?v=M68GeL8PafE
 
 
